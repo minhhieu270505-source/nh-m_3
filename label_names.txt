@@ -1,7 +1,2 @@
 _background_
-cho 1
-cho 2
-cho 3
-meo
-tho
-vet 1
+bàn
